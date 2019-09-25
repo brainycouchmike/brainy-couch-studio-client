@@ -1,8 +1,8 @@
 {
   "name": "client",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "author": "Brainy Couch Studios",
+  "homepage": "https://brainycouch.com/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
