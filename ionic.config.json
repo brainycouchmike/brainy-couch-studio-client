@@ -1,8 +1,10 @@
 {
   "name": "client",
   "integrations": {
-    "cordova": {}
+    "cordova": {},
+    "capacitor": {}
   },
   "type": "angular",
-  "pro_id": "daadbec0"
+  "pro_id": "daadbec0",
+  "id": "daadbec0"
 }
